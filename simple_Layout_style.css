@@ -1,0 +1,32 @@
+div{
+    border : 1px solid rgb(160, 160, 160);
+    padding: 20px;
+}
+#out-container{
+    width:940px;
+    margin:0px auto;
+    padding:20px;
+}
+#header{
+    padding:20px;
+    margin-bottom:20px;
+}
+#left-side-container{
+    width:15%;
+    margin-bottom:20px;
+    float: left;
+}
+#right-side-container{
+    width:15%;
+    margin-bottom:20px;
+    float: right;
+}
+#content-container{
+    width:52%;
+    margin : 0 20px 20px 20px;
+    float:left;
+}
+#foot-container{
+    clear:both;
+    padding:20px;
+}
